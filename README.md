@@ -1,1 +1,1 @@
-# ThretHunt- Hunt Folder contain list of list of file and steps to analyse suspicious event in network 
+# ThretHunt- Following files  contain list of steps to analyse suspicious event/ threats  in network, system and IT infrastructure
